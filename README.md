@@ -4,7 +4,7 @@ This is Contact Manager App developed using React with TypeScript.
 
 # Link 
 
-Contact Manager App is also live on the following Link: 
+Contact Manager App is also live on the following Link: https://felixfelicis555.github.io/contact-manager/
 
 # Functionality:
 
